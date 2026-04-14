@@ -1,0 +1,6 @@
+{
+  "name": "InterpretaReady",
+  "description": "Piattaforma avanzata per studenti di interpretariato di conferenza: generazione glossari, flashcards, simulazioni dialogiche e analisi dei relatori con AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
